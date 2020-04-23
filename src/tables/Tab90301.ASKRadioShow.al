@@ -1,4 +1,4 @@
-table 90300 "ASK Radio Show"
+table 90301 "ASK Radio Show"
 {
     DataClassification = ToBeClassified;
     Caption = 'Radio Show';

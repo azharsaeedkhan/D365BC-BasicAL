@@ -1,9 +1,11 @@
-page 90300 "ASK Radio Show List"
+page 90303 "ASK Radio Show List"
 {
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = "ASK Radio Show";
+    CardPageId = "ASK Radio Show List";
+    Caption = 'Radio Show List';
 
     layout
     {
